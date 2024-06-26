@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://fotografias.lasexta.com/clipping/cmsimages02/2021/04/12/BD9CA878-C4D2-4366-B36B-113C94FE0947/98.jpg?crop=5929,3336,x126,y0&width=1900&height=1069&optimize=high&format=webply"  />
+<img float="right" height="200" src="https://fotografias.lasexta.com/clipping/cmsimages02/2021/04/12/BD9CA878-C4D2-4366-B36B-113C94FE0947/98.jpg?crop=5929,3336,x126,y0&width=1900&height=1069&optimize=high&format=webply"  />
 
 ###
 
