@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">I'm Fernando from Canary Islands 🌴<br><br>- 🔭 I’m working as research fellow on [Qualitas Artificial Intelligence & Science](https://qaisc.com/)<br>- 📚 I'm currently learning deep learing technics<br>- ⚡ In my free time I try to connect with nature enviroments and keep learing on other fields</p>
+<p align="center">I'm Fernando from Canary Islands 🌴<br><br>- 🔭 I’m working as research fellow on [University Institute of Cybernetics, Business and Society (IUCES)]([https://qaisc.com/](https://iuces.ulpgc.es/))<br>- 📚 I am currently a researcher in semantic segmentation methods using deep learning.<br>- ⚡ In my free time I try to connect with nature enviroments and keep learing on other fields</p>
 
 ###
 
