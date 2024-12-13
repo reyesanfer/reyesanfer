@@ -21,7 +21,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" width="40" height="40" alt="discord logo"  />
   </a>
   <a href="https://accedacris.ulpgc.es/cris/rp/rp07247" target="_blank">
-    <img src="https://www.ulpgc.es/sites/default/files/ArchivosULPGC/identidad-corporativa/NuevoLogo/logo_ulpgc_version_vertical_alternativa_positiva_naranja.svg" width="40" height="50" alt="discord logo"  />
+    <img src="https://www.ulpgc.es/sites/default/files/ArchivosULPGC/identidad-corporativa/NuevoLogo/logo_ulpgc_version_vertical_alternativa_positiva_naranja.svg" width="50" height="60" alt="discord logo"  />
   </a>
 </div>
 
