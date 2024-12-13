@@ -18,7 +18,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://orcid.org/0009-0008-7574-4596" target="_blank">
-    <img src="https://imgs.search.brave.com/wlHnNQK9FfVVS7XJTdzCf7RCoXW8OQE2BxgPeujkW2s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L09SQ0lEX2lE/LnN2Zw" width="40" height="40" alt="discord logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" width="40" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://accedacris.ulpgc.es/cris/rp/rp07247" target="_blank">
+    <img src="https://www.ulpgc.es/sites/default/files/ArchivosULPGC/identidad-corporativa/NuevoLogo/logo_ulpgc_version_vertical_alternativa_positiva_naranja.svg" width="40" height="50" alt="discord logo"  />
   </a>
 </div>
 
