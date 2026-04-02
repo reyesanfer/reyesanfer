@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">I'm Fernando from Canary Islands 🌴<br><br>- 🔭 I’m working as AI resercher on <a href="https://qaisc.com/" target="_blank" rel="noopener noreferrer">QUALITAS ARTIFICIAL INTELLIGENCE & SCIENCE (QAISC)</a> and also I work as a substitute profesor in the Computer Science degree at the <a href="https://www.ulpgc.es/node" target="_blank" rel="noopener noreferrer"> University of Las Palmas de Gran Canaria (ULPGC)</a><br>- 📚 I am currently a researcher in deep learning methods focused on computer vision tasks.<br>- ⚡ In my free time I try to connect with nature enviroments and keep learing on other fields<br>- 📫 How to reach me: fsanfiel@qaisc.com or fernando.sanfiel@ulpgc.es</p>
+<p align="center">I'm Fernando from Canary Islands 🌴<br><br>- 🔭 I’m working as AI resercher on <a href="https://qaisc.com/" target="_blank" rel="noopener noreferrer">Qualitas Artificial Intelligence & Science (QAISC)</a> and also I work as a substitute profesor in the Computer Science degree at the <a href="https://www.ulpgc.es/node" target="_blank" rel="noopener noreferrer"> University of Las Palmas de Gran Canaria (ULPGC)</a><br>- 📚 I am currently a researcher in deep learning methods focused on computer vision tasks.<br>- ⚡ In my free time I try to connect with nature enviroments and keep learing on other fields<br>- 📫 How to reach me: fsanfiel@qaisc.com or fernando.sanfiel@ulpgc.es</p>
 
 ###
 
