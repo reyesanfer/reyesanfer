@@ -27,7 +27,7 @@ Hey 👋 I'm **Fernando**, from the Canary Islands 🌴
 
 1. **Wave overtopping detection and intertidal zone delineation using semantic segmentation in coastal scenes** — *Coastal Engineering*, 2026. [DOI: 10.1016/j.coastaleng.2026.105091](https://doi.org/10.1016/j.coastaleng.2026.105091)
 2. **Semantic Segmentation for Coastal Monitoring: Region Extraction and Overtopping Detection** — *Computer Analysis of Images and Patterns (Lecture Notes in Computer Science), Springer*, 2025. [DOI: 10.1007/978-3-032-04968-1_15](https://doi.org/10.1007/978-3-032-04968-1_15)
-3. **Advanced AI Strategies for Coastal Analysis: A Case Study at Las Canteras Beach in Gran Canaria** — *Martech25: 12th International Workshop on Marine Technology*, 2025. ISBN 978-84-09-61714-2, ISSN 1886-4864. [[PDF]](https://martech-workshop.org/martech-editions/2025/proceedings/papers/7.pdf)
+3. **Advanced AI Strategies for Coastal Analysis: A Case Study at Las Canteras Beach in Gran Canaria** — *Martech25: 12th International Workshop on Marine Technology*, 2025. ISBN 978-84-09-61714-2, ISSN 1886-4864. [[PDF]](https://martech-workshop.org/martech-editions/2025/proceedings/papers/7.pdf) · [[Full proceedings, pp. 19–20]](https://martech-workshop.org/martech-editions/2025/proceedings/paginas/Abstract_Magazine.pdf)
 
 ## 🛠 Tech Stack
 
@@ -96,7 +96,7 @@ Hola 👋 Soy **Fernando**, de las Islas Canarias 🌴
 
 1. **Wave overtopping detection and intertidal zone delineation using semantic segmentation in coastal scenes** — *Coastal Engineering*, 2026. [DOI: 10.1016/j.coastaleng.2026.105091](https://doi.org/10.1016/j.coastaleng.2026.105091)
 2. **Semantic Segmentation for Coastal Monitoring: Region Extraction and Overtopping Detection** — *Computer Analysis of Images and Patterns (Lecture Notes in Computer Science), Springer*, 2025. [DOI: 10.1007/978-3-032-04968-1_15](https://doi.org/10.1007/978-3-032-04968-1_15)
-3. **Advanced AI Strategies for Coastal Analysis: A Case Study at Las Canteras Beach in Gran Canaria** — *Martech25: 12th International Workshop on Marine Technology*, 2025. ISBN 978-84-09-61714-2, ISSN 1886-4864. [[PDF]](https://martech-workshop.org/martech-editions/2025/proceedings/papers/7.pdf)
+3. **Advanced AI Strategies for Coastal Analysis: A Case Study at Las Canteras Beach in Gran Canaria** — *Martech25: 12th International Workshop on Marine Technology*, 2025. ISBN 978-84-09-61714-2, ISSN 1886-4864. [[PDF]](https://martech-workshop.org/martech-editions/2025/proceedings/papers/7.pdf) · [[Full proceedings, pp. 19–20]](https://martech-workshop.org/martech-editions/2025/proceedings/paginas/Abstract_Magazine.pdf)
 
 ## 🛠 Tecnologías
 
