@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🇬🇧 English (below)</b> · <a href="#-versión-en-español">🇪🇸 Versión en español</a>
+  <b>EN English (below)</b> · <a href="#-versión-en-español">ES Versión en español</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ Hey 👋 I'm **Fernando**, from the Canary Islands 🌴
 
 - 🔬 AI Researcher at [Qualitas Artificial Intelligence & Science (QAISC)](https://qaisc.com/)
 - 🏫 Substitute lecturer in the Computer Science degree at the [University of Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/node)
-- 🎓 PhD student in the **EMITIC** doctoral program (Business, Internet and Communication Technologies) and member of the **CTIM** research group
+- 🎓 PhD student in the **EMITIC** doctoral program (Business, Internet and Communication Technologies) and member of the [**CTIM**](https://ctim.ulpgc.es/) research group (Centro de Tecnologías de la Imagen), part of the [University Institute of Cybernetics, Business and Society (IUCES)](https://iuces.ulpgc.es/)
 - 📚 My research focuses on **deep learning methods for computer vision** tasks
 - ⚡ In my free time I like to connect with natural environments and keep learning in other fields
 - 📫 Reach me at **fsanfiel@qaisc.com** or **fernando.sanfiel@ulpgc.es**
@@ -85,7 +85,7 @@ Hola 👋 Soy **Fernando**, de las Islas Canarias 🌴
 
 - 🔬 Investigador en IA en [Qualitas Artificial Intelligence & Science (QAISC)](https://qaisc.com/)
 - 🏫 Profesor sustituto en el grado de Ingeniería Informática de la [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/node)
-- 🎓 Doctorando en el programa **EMITIC** (Empresa, Internet y Tecnología de las Comunicaciones) y miembro del grupo de investigación **CTIM**
+- 🎓 Doctorando en el programa **EMITIC** (Empresa, Internet y Tecnología de las Comunicaciones) y miembro del grupo de investigación [**CTIM**](https://ctim.ulpgc.es/) (Centro de Tecnologías de la Imagen), adscrito al [Instituto Universitario de Cibernética, Empresa y Sociedad (IUCES)](https://iuces.ulpgc.es/)
 - 📚 Mi investigación se centra en **métodos de deep learning para visión por computador**
 - ⚡ En mi tiempo libre me gusta conectar con entornos naturales y seguir aprendiendo en otros campos
 - 📫 Contacto: **fsanfiel@qaisc.com** o **fernando.sanfiel@ulpgc.es**
