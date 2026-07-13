@@ -58,12 +58,12 @@ Hey 👋 I'm **Fernando**, from the Canary Islands 🌴
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyesanfer&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyesanfer&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reyesanfer&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reyesanfer&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reyesanfer&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=reyesanfer&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub streak" />
 </div>
 
 ## 🔗 Connect
@@ -128,12 +128,12 @@ Hola 👋 Soy **Fernando**, de las Islas Canarias 🌴
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyesanfer&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyesanfer&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reyesanfer&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reyesanfer&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reyesanfer&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=reyesanfer&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Racha de GitHub" />
 </div>
 
 ## 🔗 Contacto
